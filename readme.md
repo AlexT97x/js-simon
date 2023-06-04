@@ -14,3 +14,7 @@ SOLUZIONE :
     - i numeri corrispondono, esito positivo 
 ALTRIMENTI : 
     - i numeri non corrispondono, esito negativo 
+
+
+UPDATE :
+ Ho implementato un ciclo while per evitare che vengano proposti due numeri uguali 
